@@ -59,8 +59,6 @@ Find your certificate under the login section, right-click, and select export. Y
 
 If you haven’t already, make an account. Next, create a new app, select it, and, on the third tab, find the push settings.
 
-![sinch.png](images\41ce289-sinch.png)
-
 You can drag and drop your .p12 file that we just created into Sinch.
 
 It’s that easy\! Now we can get back to the good stuff: coding.
